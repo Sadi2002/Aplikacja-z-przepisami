@@ -1,3 +1,3 @@
 # Przepisy na studia
 
-Recipe application with custom recipe uploads.
+Aplikacja na studia do wyszukiwania przepisów
